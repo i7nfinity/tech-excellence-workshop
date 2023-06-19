@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "module": "es6",
+      "target": "es6",
+      "sourceMap": true,
+      "allowSyntheticDefaultImports": true,
+      "baseUrl": "./"
+    },
+    "exclude": [
+      "node_modules"
+    ]
+  }
